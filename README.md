@@ -1,6 +1,6 @@
 ### Olá soou Claudenes Vieira 👋
 
-Sou Iniciante em progemação, busco cada vez mais por conhecimentos e primeiro emprego como desenvolvedor.
+Sou Iniciante em programação, busco cada vez mais por conhecimentos e primeiro emprego como desenvolvedor.
 
 
 ### Conhecimentos
